@@ -49,21 +49,27 @@ Product Managers, Growth Teams, and Analysts use dashboards like this to:
 
 # 📌 **3. Tech Stack**
 
-**Programming & Analytics**
 
-* Python 3.10+
-* Pandas, NumPy
-* scikit-learn (KMeans segmentation)
-* Plotly (interactive visuals)
+## 🧠 Programming & Analytics
+<p>
+  <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-brightgreen?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-orange?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-KMeans%20Segmentation-yellow?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-Interactive%20Visuals-9cf?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
 
-**App / UI**
+## 🖥️ App / UI
+<p>
+  <img src="https://img.shields.io/badge/Streamlit-Multi--Page%20Dashboard-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
 
-* Streamlit (multi-page dashboard)
+## 🔧 Utilities & Engineering
+<p>
+  <img src="https://img.shields.io/badge/Joblib-Model%20Serialization-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pytest-Unit%20Testing-%230A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+</p>
 
-**Utilities**
-
-* Joblib
-* Pytest (for model testing)
 
 ---
 
