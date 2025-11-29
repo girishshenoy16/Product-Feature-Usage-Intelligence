@@ -240,9 +240,9 @@ Shows high-level KPIs:
 * RFM summary per cluster
 
 
-```
+
 ![Overview](screenshots/overview.png)
-```
+
 
 ---
 
@@ -255,9 +255,9 @@ Includes:
 * Feature-wise time-series trends
 
 
-```
+
 ![Feature Usage](screenshots/feature_usage.png)
-```
+
 
 ---
 
@@ -268,9 +268,9 @@ Includes:
 * Insightful cluster interpretation
 
 
-```
+
 ![RFM Segments](screenshots/rfm_segments.png)
-```
+
 
 ---
 
